@@ -1,15 +1,15 @@
 
-Hey! I'm **Nakul Singh Sisodia** : a Full Stack & Mobile App Developer with a growing interest in Machine Learning. I don't just write code, I get *lost* in it (literally — clocks stop existing when I'm in the zone ⚡).
+Hey! I'm **Nakul Singh Sisodia**, a Full Stack & Mobile App Developer with a growing interest in Machine Learning. I don't just write code, I get *lost* in it (literally — clocks stop existing when I'm in the zone ⚡).
 
-🔨 **Currently building** : Cross-platform mobile apps with React Native Expo & exploring the world of Machine Learning.
+🔨 **Currently building**: Cross-platform mobile apps with React Native Expo & exploring the world of Machine Learning.
 
-🤝 **Open to collaborate** : Full stack, mobile, or ML projects. Whether you need help or want to build something cool together, I'm in.
+🤝 **Open to collaborate**: Full stack, mobile, or ML projects. Whether you need help or want to build something cool together, I'm in.
 
-🌱 **Currently leveling up** : TypeScript, advanced Expo, and diving deeper into Machine Learning.
+🌱 **Currently leveling up**: TypeScript, advanced Expo, and diving deeper into Machine Learning.
 
-💬 **Ask me anything about** : React · Next.js · React Native · Python · Node.js · Express · MongoDB · Firebase
+💬 **Ask me anything about**: React · Next.js · React Native · Python · Node.js · Express · MongoDB · Firebase
 
-⚡ **Fun fact** : I lose track of time the moment I open my editor. Started "for 10 minutes", it's been 4 hours. Still going.
+⚡ **Fun fact**: I lose track of time the moment I open my editor. Started "for 10 minutes", it's been 4 hours. Still going.
 
 
 ## 🌐 Socials:
