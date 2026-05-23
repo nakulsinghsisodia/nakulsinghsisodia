@@ -6,7 +6,7 @@ i build web apps, mobile apps, and anything that keeps me
 up past midnight. been doing this long enough to know that
 the best debugging happens at 2am.
 
-my stack goes pretty deep — react, next.js, node, python,
+my stack goes pretty deep: react, next.js, node, python,
 react native expo, mongodb, firebase, sql. lately been
 getting into ml because apparently i don't sleep enough already.
 
