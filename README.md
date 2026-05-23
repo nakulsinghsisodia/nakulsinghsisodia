@@ -1,5 +1,16 @@
-# 💫 About Me:
-I'm currently working on:<br>Mobile application development using React Native Expo, and exploring Machine Learning projects.<br> I'm looking to collaborate on:<br>Interesting full stack, mobile, or ML projects — open to both helping others and getting help!<br> I'm looking for help with:<br>Anything around TypeScript, advanced Expo features, and ML — still learning, always open!<br>I'm currently learning:<br>TypeScript, Expo (advanced), and Machine Learning fundamentals.<br> Ask me about:<br>React, Next.js, React Native, Python, Node.js, Express, MongoDB, Firebase — basically the whole stack!<br> Fun fact:<br>I usually forget time while programming. Clock stops existing when code is running. No regrets.
+# 💫 About Me
+
+Hey! I'm **Nakul Singh Sisodia** — a Full Stack & Mobile App Developer with a growing interest in Machine Learning. I don't just write code, I get *lost* in it (literally — clocks stop existing when I'm in the zone ⚡).
+
+🔨 **Currently building** — Cross-platform mobile apps with React Native Expo & exploring the world of Machine Learning.
+
+🤝 **Open to collaborate** — Full stack, mobile, or ML projects. Whether you need help or want to build something cool together, I'm in.
+
+🌱 **Currently leveling up** — TypeScript, advanced Expo, and diving deeper into Machine Learning.
+
+💬 **Ask me anything about** — React · Next.js · React Native · Python · Node.js · Express · MongoDB · Firebase
+
+⚡ **Fun fact** — I lose track of time the moment I open my editor. Started "for 10 minutes", it's been 4 hours. Still going.
 
 
 ## 🌐 Socials:
@@ -12,6 +23,3 @@ I'm currently working on:<br>Mobile application development using React Native E
 ![](https://streak-stats.demolab.com/?user=nakulsinghsisodia&theme=date_night&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nakulsinghsisodia&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
